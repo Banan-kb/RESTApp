@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RESTApp</string>
+    <string-array name="cities">
+        <item>Riyadh</item>
+        <item>Jeddah</item>
+        <item>London</item>
+        <item>Athens</item>
+    </string-array>
+</resources>
